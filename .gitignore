@@ -1,0 +1,25 @@
+# Unreal generated folders (project and plugins)
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/*/**
+!Build/*/Resources/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# IDE and project files (regenerate from .uproject)
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.xcworkspace
+*.xcodeproj
+
+# Compiled output and OS junk
+*.pdb
+*.dll
+*.exe
+.DS_Store
+Thumbs.db
